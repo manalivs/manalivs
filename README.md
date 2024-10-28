@@ -17,6 +17,8 @@
   
 📫 How to reach me: manalivshelar@gmail.com
 
+<!--![Profile Views](https://komarev.com/ghpvc/?username=manalivs&color=blue)-->
+
 
 **Languages:**  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="R" /></a>  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
