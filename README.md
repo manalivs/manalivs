@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Manali 👋
 <!--I’m Manali, a passionate Data Science enthusiast with a deep interest in AI and Machine Learning. Graduating with a Master’s in Data Science from Indiana University Bloomington, I specialize in turning raw data into actionable insights. From enhancing network visualization tools using LLMs to forecasting economic trends, I enjoy uncovering the potential hidden within data.-->
 
 🔭 I’m currently working on Large Language Models (LLMs).
